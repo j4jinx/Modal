@@ -1,0 +1,1 @@
+{"v":4,"entries":{"modal--docs":{"id":"modal--docs","title":"Modal","name":"Docs","importPath":"./.storybook/Modal.stories.jsx","type":"docs","tags":["docs","autodocs"],"storiesImports":[]},"modal--demo":{"type":"story","id":"modal--demo","name":"Demo","title":"Modal","importPath":"./.storybook/Modal.stories.jsx","tags":["story"]}}}
